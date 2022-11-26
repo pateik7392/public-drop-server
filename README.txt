@@ -1,1 +1,1 @@
-zde jsou moje výtovory v programovacím jazyku betch
+zde jsou moje výtovory v programovacím jazyku batch
