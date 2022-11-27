@@ -1,0 +1,11 @@
+tvůrce: grizlíkův sihost.exe
+verze složky: 1.0.5
+datum aktualizace: dmes
+den vydání včera
+
+a chci také uvést informace o autorkých právech
+
+pokud tento soubor najdete jinde než na githubu tak to nestahovat jedná se o porišení autorskách práv
+pokud bude jak koliv pozměněn text nebo kód jakého koliv programu a pokud program funguje stejně něbo podobně je nutné toto nahlásit
+
+

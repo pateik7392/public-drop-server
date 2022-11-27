@@ -1,0 +1,3 @@
+v testovací beta verzi jsou programy u kterých je potřeba velký kód a dlouhý 
+
+u některých programů tento vývoj bude trvat opravdu dlouho ale bude stát za to
