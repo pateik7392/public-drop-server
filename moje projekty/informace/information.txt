@@ -15,4 +15,3 @@ pokud tento soubor najdete jinde než na githubu tak to nestahovat jedná se o p
 pokud bude jak koliv pozměněn text nebo kód jakého koliv programu a pokud program funguje stejně něbo podobně je nutné toto nahlásit pokud se chcete podělit o váš výtvor stačí mi napsat do PM 
 
 budou tu i jiné jazyky než betch ale zatím je tu pouze betch jako například C++ a nebo python ale nebude to hned budu někdy updatovat na windows 10 X64
-
