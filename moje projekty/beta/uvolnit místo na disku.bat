@@ -1,0 +1,1 @@
+váš počítač byl napaden vyrem z názvem vypalovač pixelů.ex

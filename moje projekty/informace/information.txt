@@ -1,11 +1,18 @@
 tvůrce: grizlíkův sihost.exe
-verze složky: 1.0.5
+verze složky: 1.1.6
 datum aktualizace: dmes
-den vydání včera
+den vydání 25.10.2022
+nepodporované soubory 2
+vytvořeno na virtualní počítači s windows 10 X32
+v betě 2
+modifed allowed 2
+
+jinak soubory u kterých je v kódu (upravování povoleno) tak můžete upravovat aktualně je to jen jeden soubor ale v budoucnu to bude více souborů plánuji na to vytvočit samostatný bat soubor ale nevím zda se to vyplatí jen tento soubor před pár dny vyšel nečekéjte něaké zázraky ale budu se snažit updatovat i starší ptogramy a nepodporované programy nejsou updaty a nemusí fungovat na 100%
 
 a chci také uvést informace o autorkých právech
 
-pokud tento soubor najdete jinde než na githubu tak to nestahovat jedná se o porišení autorskách práv
-pokud bude jak koliv pozměněn text nebo kód jakého koliv programu a pokud program funguje stejně něbo podobně je nutné toto nahlásit
+pokud tento soubor najdete jinde než na githubu tak to nestahovat jedná se o porušení autorskách práv
+pokud bude jak koliv pozměněn text nebo kód jakého koliv programu a pokud program funguje stejně něbo podobně je nutné toto nahlásit pokud se chcete podělit o váš výtvor stačí mi napsat do PM 
 
+budou tu i jiné jazyky než betch ale zatím je tu pouze betch jako například C++ a nebo python ale nebude to hned budu někdy updatovat na windows 10 X64
 

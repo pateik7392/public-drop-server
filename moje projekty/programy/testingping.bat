@@ -7,5 +7,5 @@ echo aktualozace programu: dnes v 14:49
 timeout /t 5 > nul
 cls
 ping google.com
-timeout /t 5 > nul
+timeout /t 5 > nul|
 exit

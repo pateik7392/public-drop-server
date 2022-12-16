@@ -1,3 +1,5 @@
-v testovací beta verzi jsou programy u kterých je potřeba velký kód a dlouhý 
+beta programu které testuji a můžete si je otestovat i vy jen dokonce programy jako openrandomvideo byl taky docela náročný ale funguje bude se vyvýjet spousta programů
+
+dokonce kapacita tohoto uložiště je docela malá ptoto budu  v budoucnu dělat novou instalaci windows s více mýsta na disku ale zatím tech 12,2 GB stačí občas spustím i clearnupimage pro vyčištění winsxs souborů abych uvolnil místo na disku
 
 u některých programů tento vývoj bude trvat opravdu dlouho ale bude stát za to
